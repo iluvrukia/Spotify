@@ -6,8 +6,8 @@ from spotipy.oauth2 import SpotifyOAuth
 print("DEBUG: starting widget.py")
 
 # ====== CONFIG PUT YOUR REAL VALUES HERE ======
-CLIENT_ID = "8b98b88d5ab24672abc4a1f9045a5fe9"
-CLIENT_SECRET = "222b4779d54f46bc964d5d3117525d43"
+CLIENT_ID = "CLIENT_ID"
+CLIENT_SECRET = "CLIENT_SECRET"
 REDIRECT_URI = "https://iluvrukia.github.io/callback/"
 
 SCOPE = "user-read-currently-playing user-read-playback-state"
